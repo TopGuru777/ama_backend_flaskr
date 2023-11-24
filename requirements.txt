@@ -1,0 +1,7 @@
+flask
+requests
+python-dotenv
+flask-cors
+langchain
+rdflib
+openai
